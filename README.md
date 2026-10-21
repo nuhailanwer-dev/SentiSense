@@ -1,6 +1,6 @@
 # SentiSense
 
-[Watch the SentiSense demo](SentiSense-demo.mp4)
+https://github.com/user-attachments/assets/c44ca867-51d4-4a5b-8f7e-9541a77e56b3
 
 ## Streamlit interface (recommended)
 
