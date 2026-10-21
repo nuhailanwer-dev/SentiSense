@@ -1,5 +1,7 @@
 # SentiSense
 
+[Watch the SentiSense demo](SentiSense-demo.mp4)
+
 ## Streamlit interface (recommended)
 
 Install the Python dependencies, then start the Streamlit app:
